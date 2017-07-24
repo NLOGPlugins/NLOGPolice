@@ -32,7 +32,7 @@ api:
 - 4.0.0
 
 commands:
- police:
+ 경찰:
   permission: op
   description: 경찰 관련 명령어
  policecmd:
